@@ -1,0 +1,44 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao molho",
+      "price": "29.90",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "id": 1,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "Modo do Chef",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "39,90",
+      "description": "Macarrão ao molho do chef, servidos com baba de nene",
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "Ao molho branco",
+      "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=350&q=80",
+      "price": "19,90",
+      "description": "Macarrão ao molho branco de creme de leite c/ queijo holandes e salpicão do tibet",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
